@@ -1050,3 +1050,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_498: Feat: Fix bug in utility for better maintainability. at 2024-12-26 14:36:56
 * Commit 2024_499: Fix: Update documentation for utility for better readability. at 2024-12-30 16:02:06
 * Commit 2024_500: Test: Improve styling of script to resolve issue. at 2024-12-30 13:43:55
+* Commit 2023_1: Docs: Configure CI for tests to resolve issue. at 2023-01-03 10:25:53
