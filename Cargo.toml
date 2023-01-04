@@ -1,8 +1,9 @@
-
 [package]
-name = "realtime-cv-pipeline"
+name = "realtime-computer-vision-pipeline"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-opencv = { version = "0.70", features = ["imgcodecs", "highgui", "videoio"] }
+opencv = { version = "0.80", features = ["opencv_imgcodecs", "opencv_highgui", "opencv_videoio", "opencv_imgproc", "opencv_objdetect"] }
+
+# Simulated change for commit 1 on 2023-01-04 13:23:34
