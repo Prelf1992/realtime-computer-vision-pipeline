@@ -1165,3 +1165,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_113: CI: Fix bug in tests for better readability. at 2023-03-16 14:34:46
 * Commit 2023_114: Perf: Update documentation for dependencies for faster execution. at 2023-03-16 11:37:40
 * Commit 2023_115: Build: Configure CI for module to resolve issue. at 2023-03-16 14:18:15
+* Commit 2023_116: Fix: Clean up dependencies for better readability. at 2023-03-16 10:20:49
