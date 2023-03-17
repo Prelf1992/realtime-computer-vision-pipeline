@@ -1169,3 +1169,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_117: Build: Improve styling of UI for faster execution. at 2023-03-17 12:20:20
 * Commit 2023_118: Refactor: Improve styling of README to resolve issue. at 2023-03-17 15:26:53
 * Commit 2023_119: Feat: Add new feature dependencies to resolve issue. at 2023-03-17 09:36:39
+* Commit 2023_120: Style: Update documentation for component to resolve issue. at 2023-03-17 17:55:41
