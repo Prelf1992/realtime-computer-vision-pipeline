@@ -1222,3 +1222,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_170: Fix: Refactor code in script to align with standards. at 2023-04-28 17:17:53
 * Commit 2023_171: Docs: Update build config dependencies to support new requirements. at 2023-05-01 17:21:34
 * Commit 2023_172: Perf: Clean up utility to improve user experience. at 2023-05-01 09:25:46
+* Commit 2023_173: Fix: Fix bug in API for better readability. at 2023-05-01 09:38:41
