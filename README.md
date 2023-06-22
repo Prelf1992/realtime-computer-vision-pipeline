@@ -1303,3 +1303,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_251: Feat: Update build config database for better maintainability. at 2023-06-21 15:05:23
 * Commit 2023_252: Chore: Update build config script to align with standards. at 2023-06-21 09:49:54
 * Commit 2023_253: Style: Update documentation for script to enhance functionality. at 2023-06-21 13:56:07
+* Commit 2023_254: Style: Improve styling of script to improve user experience. at 2023-06-22 15:34:09
