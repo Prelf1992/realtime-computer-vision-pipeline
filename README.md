@@ -1400,3 +1400,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_348: Perf: Refactor code in utility to enhance functionality. at 2023-09-11 13:39:50
 * Commit 2023_349: Chore: Add tests for algorithm for better readability. at 2023-09-11 09:57:02
 * Commit 2023_350: CI: Add tests for API to ensure stability. at 2023-09-11 16:35:58
+* Commit 2023_351: Chore: Refactor code in API to improve user experience. at 2023-09-12 17:19:02
