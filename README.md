@@ -569,3 +569,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_17: Refactor: Add tests for API to improve user experience. at 2024-01-12 09:34:00
 * Commit 2024_18: Style: Fix bug in script for better maintainability. at 2024-01-12 09:41:18
 * Commit 2024_19: Perf: Add tests for README to resolve issue. at 2024-01-16 13:28:05
+* Commit 2024_20: Style: Configure CI for tests to support new requirements. at 2024-01-17 14:25:45
