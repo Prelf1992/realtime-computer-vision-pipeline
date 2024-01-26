@@ -585,3 +585,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_33: Fix: Improve styling of UI for faster execution. at 2024-01-26 12:23:09
 * Commit 2024_34: Chore: Clean up data model for better maintainability. at 2024-01-26 13:17:20
 * Commit 2024_35: Chore: Improve styling of component for better readability. at 2024-01-26 14:51:24
+* Commit 2024_36: Chore: Improve styling of README to improve user experience. at 2024-01-26 14:59:30
