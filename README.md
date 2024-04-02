@@ -676,3 +676,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_124: CI: Fix bug in README for better maintainability. at 2024-04-02 17:15:33
 * Commit 2024_125: Style: Refactor code in README for faster execution. at 2024-04-02 15:34:51
 * Commit 2024_126: Docs: Improve styling of API to support new requirements. at 2024-04-02 15:25:08
+* Commit 2024_127: Chore: Update documentation for API for better maintainability. at 2024-04-02 11:26:05
