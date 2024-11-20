@@ -67,3 +67,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 15: Style: Improve styling of database for faster execution. at 2024-11-18 12:16:49
 * Commit 16: Perf: Refactor code in utility to improve user experience. at 2024-11-18 16:04:37
 * Commit 17: Chore: Add tests for README to support new requirements. at 2024-11-19 12:29:05
+* Commit 18: CI: Clean up script to align with standards. at 2024-11-20 09:34:04
