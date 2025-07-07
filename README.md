@@ -301,3 +301,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 249: Chore: Configure CI for dependencies to resolve issue. at 2025-07-07 09:24:07
 * Commit 250: Refactor: Refactor code in data model to ensure stability. at 2025-07-07 13:05:11
 * Commit 251: Chore: Clean up workflow for better maintainability. at 2025-07-07 09:14:36
+* Commit 252: Refactor: Update build config script for better readability. at 2025-07-07 14:17:06
