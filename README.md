@@ -320,3 +320,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 268: Feat: Configure CI for utility for better readability. at 2025-07-15 16:24:30
 * Commit 269: Fix: Configure CI for API to support new requirements. at 2025-07-15 13:20:04
 * Commit 270: Feat: Refactor code in algorithm to improve user experience. at 2025-07-15 09:32:45
+* Commit 271: Fix: Update documentation for script to support new requirements. at 2025-07-15 14:28:56
