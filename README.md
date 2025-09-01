@@ -363,3 +363,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 311: Refactor: Fix bug in UI to align with standards. at 2025-08-28 12:36:20
 * Commit 312: Fix: Refactor code in data model for better readability. at 2025-09-01 11:07:04
 * Commit 313: CI: Update documentation for workflow to align with standards. at 2025-09-01 15:14:16
+* Commit 314: Chore: Refactor code in utility for better readability. at 2025-09-01 11:15:59
