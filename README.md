@@ -368,3 +368,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 316: Chore: Clean up API to ensure stability. at 2025-09-02 14:37:58
 * Commit 317: Perf: Refactor code in utility to improve user experience. at 2025-09-02 15:35:40
 * Commit 318: Refactor: Add tests for README to support new requirements. at 2025-09-04 12:53:35
+* Commit 319: Style: Update documentation for API to improve user experience. at 2025-09-04 13:52:53
