@@ -393,3 +393,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 341: Fix: Configure CI for tests to support new requirements. at 2025-10-07 12:55:13
 * Commit 342: Build: Configure CI for UI to support new requirements. at 2025-10-07 09:41:35
 * Commit 343: Feat: Improve styling of UI to improve user experience. at 2025-10-07 15:21:13
+* Commit 344: Perf: Update documentation for README to align with standards. at 2025-10-08 16:06:16
