@@ -415,3 +415,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 363: Style: Update build config component to support new requirements. at 2025-11-03 14:56:24
 * Commit 364: Chore: Improve styling of README to ensure stability. at 2025-11-04 10:08:37
 * Commit 365: Feat: Optimize performance of UI to align with standards. at 2025-11-04 14:35:32
+* Commit 366: Feat: Update documentation for algorithm for better readability. at 2025-11-04 10:31:45
