@@ -1,6 +1,11 @@
 
 # Real-time Computer Vision Pipeline
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/Prelf1992/realtime-computer-vision-pipeline?style=social)](https://github.com/Prelf1992/realtime-computer-vision-pipeline)
+
+
 An end-to-end pipeline for real-time object detection and tracking using state-of-the-art computer vision models. Optimized for edge deployment.
 
 ## Features
