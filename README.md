@@ -1770,3 +1770,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2026_218: Refactor: Improve styling of data model to improve user experience. at 2026-05-28 17:59:37
 * Commit 2026_219: Build: Configure CI for module for faster execution. at 2026-05-28 16:27:20
 * Commit 2026_220: Refactor: Clean up API to align with standards. at 2026-05-29 12:10:25
+* Commit 2026_221: Docs: Fix bug in API to align with standards. at 2026-06-02 15:00:32
