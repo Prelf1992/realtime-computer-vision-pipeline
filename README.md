@@ -1854,3 +1854,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2026_302: Chore: Clean up tests to resolve issue. at 2026-07-24 14:31:32
 * Commit 2026_303: Build: Update build config dependencies for better maintainability. at 2026-07-24 10:23:08
 * Commit 2026_304: Style: Clean up database to resolve issue. at 2026-07-27 11:43:18
+* Commit 2026_305: Feat: Configure CI for tests for better readability. at 2026-07-27 11:32:46
